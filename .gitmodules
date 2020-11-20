@@ -1,0 +1,9 @@
+[submodule "themes/researcher"]
+	path = themes/researcher
+	url = https://github.com/ojroques/hugo-researcher.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
+[submodule "themes/console"]
+	path = themes/console
+	url = git@github.com:rmacd/hugo-theme-console.git

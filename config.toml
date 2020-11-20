@@ -1,0 +1,33 @@
+baseURL = "https://pubcoi.org/"
+languageCode = "en-gb"
+title = "PubCOI.org"
+theme = "console"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+    titleCutting = false
+
+[[params.navlinks]]
+name = "contact/"
+url = "contact/"
+
+[[params.navlinks]]
+name = "resources/"
+url = "resources/"
+
+[[params.navlinks]]
+name = "project-info/"
+url = "project-info/"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/PubCOI"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/PubCOI/"
+

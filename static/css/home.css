@@ -1,0 +1,4 @@
+img[src*="#line-height"] {
+    height:1em;
+    width: unset;
+}
